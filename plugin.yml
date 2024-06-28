@@ -1,0 +1,6 @@
+name: wb
+version: 1
+main: main
+commands:
+  t:
+    description: 테스트용!
