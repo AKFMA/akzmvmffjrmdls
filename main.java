@@ -6,7 +6,7 @@ public class main extends JavaPlugin{
     //플러그인 실행 시에 실행되는 부분
     @Override
     public void onEnable(){
-        System.out.println("귤쌤의 변수 실습용 플러그인 실행");
+        System.out.println("엥 이게 왜댓냐");
     }
     //플러그인 종료 시에 실행되는 부분
     @Override
